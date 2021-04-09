@@ -1,6 +1,7 @@
 ## QUANTUM HackMx
 
-![Image](Quantum.png)
+
+<img src="Quantum.png" alt="Hackathon Mx" width="300">
 [Registrate!](http://hackmx.mx/)
 
 
