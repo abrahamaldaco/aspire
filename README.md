@@ -1,6 +1,6 @@
 ## QUANTUM HackMx
 
-![Image](Quantum)
+![Image](Quantum.png)
 [Registrate!](http://hackmx.mx/)
 
 
