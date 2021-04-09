@@ -1,7 +1,6 @@
 ## QUANTUM HackMx
 
-
-<img src="Quantum.png" alt="Hackathon Mx" width="300">
+<a href="http://hackmx.mx/"><img src="Quantum.png" alt="Hackathon Mx" width="300"></a>
 [Registrate!](http://hackmx.mx/)
 
 
