@@ -1,5 +1,7 @@
 ## QUANTUM HackMx
 
+![Image](Quantum)
+[Registrate!](http://hackmx.mx/)
 
 
 ### Resgistrate
