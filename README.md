@@ -4,7 +4,7 @@ Where everyone can find an academic environment to grow.
 
 Los días 19 y 27 de Marzo y 9 de Abril se llevó a cabo el Taller de Github.
 
-<img src="TallerGitHub.png" width="250"><img src="Instructor.png" width="200">
+<img src="TallerGitHub.png" width="300"><img src="Instructor.png" width="200">
 
 ## QUANTUM HackMx
 
