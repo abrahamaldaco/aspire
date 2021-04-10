@@ -10,7 +10,9 @@
 
 Los días 19 y 27 de Marzo y 9 de Abril se llevó a cabo el Taller de Github.
 
-<img src="TallerGitHub.png" width="400"><img src="Instructor.png" width="300">
+<img src="TallerGitHub.png" width="400">
+<br>
+<img src="Instructor.png" width="300">
 
 <h3> QUANTUM HackMx </h3>
 
